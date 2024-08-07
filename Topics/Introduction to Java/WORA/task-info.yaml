@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Westside One Residents' Association
+  - text: Write Once Run Anywhere
+  - text: When Online RPGs Attack
+  - text: Weave On Right Advantage
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18464#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 17 Jul 2024 20:53:11 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false

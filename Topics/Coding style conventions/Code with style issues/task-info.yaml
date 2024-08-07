@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Semicolons are placed incorrectly
+  - text: All indentations are four spaces
+  - text: It has some extra spaces next to a parenthesis
+  - text: One opening curly brace starts with a new line
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12418#comment
+status: Solved
+record: -1
+local_check: false
